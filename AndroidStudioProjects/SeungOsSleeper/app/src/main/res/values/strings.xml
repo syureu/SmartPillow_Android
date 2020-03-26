@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Seung-O\'s Sleeper</string>
+    <string name="searchButton">지난 데이터 보기</string>
+    <string name="sleepButton">자러가기</string>
+    <string name="wakeupTime">기상 예정 시간은 xx:xx 입니다</string>
+    <string name="wakeupButton">깨어나기</string>
+    <string name="returnToMainButton">뒤로가기</string>
+</resources>
